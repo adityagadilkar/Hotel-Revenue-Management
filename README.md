@@ -1,1 +1,1 @@
-# Infosys-Springboard-Individual-Project-
+# Hotel Revenue Management
