@@ -56,8 +56,8 @@ Designed for pricing and demand optimization.
 
 ## 📂 File Structure
 <pre>
-📁 Hotel-Bookings-Visualization
-├── Hotel_Bookings_Visualization.pbix
+📁 Dashboard
+├── Hotel_Bookings_Visualization_&_Revenue_Analytics_Dashboard.pbix
 └── README.md
 </pre>
 
