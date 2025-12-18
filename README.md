@@ -184,5 +184,3 @@ This project is licensed under the **MIT License**.
 **Aditya Gadilkar**
 
 ---
-
-⭐ If you find this project useful, consider giving it a star!
