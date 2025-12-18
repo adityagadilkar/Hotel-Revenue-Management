@@ -54,13 +54,6 @@ Designed for pricing and demand optimization.
 * Data Modeling (Star Schema)
 * Excel / CSV (Data Source)
 
-## 📂 File Structure
-<pre>
-📁 Dashboard
-├── Hotel_Bookings_Visualization_&_Revenue_Analytics_Dashboard.pbix
-└── README.md
-</pre>
-
 ## 📈 Key KPIs Used
 * Occupancy %
 * Average Daily Rate (ADR)
