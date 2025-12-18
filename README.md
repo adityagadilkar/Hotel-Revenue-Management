@@ -59,7 +59,6 @@ Designed for pricing and demand optimization.
 ├── Hotel_Bookings_Visualization.pbix
 └── README.md
 
-
 ## 📈 Key KPIs Used
 * Occupancy %
 * Average Daily Rate (ADR)
