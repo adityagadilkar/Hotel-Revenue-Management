@@ -55,6 +55,7 @@ Designed for pricing and demand optimization.
 * Excel / CSV (Data Source)
 
 ## 📂 File Structure
+
 📁 Hotel-Bookings-Visualization
 │
 ├── Hotel_Bookings_Visualization_Final.pbix
