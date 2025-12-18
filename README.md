@@ -55,9 +55,11 @@ Designed for pricing and demand optimization.
 * Excel / CSV (Data Source)
 
 ## 📂 File Structure
+<pre>
 📁 Hotel-Bookings-Visualization
 ├── Hotel_Bookings_Visualization.pbix
 └── README.md
+</pre>
 
 ## 📈 Key KPIs Used
 * Occupancy %
